@@ -67,6 +67,7 @@ public class NotifyPersist {
         System.out.println("test");
     }
 
+
     /**
      * 创建商户通知日志记录.<br/>
      *

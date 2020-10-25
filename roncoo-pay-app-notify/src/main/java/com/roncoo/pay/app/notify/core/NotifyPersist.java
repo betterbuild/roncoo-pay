@@ -63,6 +63,10 @@ public class NotifyPersist {
         rpNotifyService.updateNotifyRecord(notifyRecord);
     }
 
+    public void testGit(String str){
+        System.out.println("test");
+    }
+
     /**
      * 创建商户通知日志记录.<br/>
      *
